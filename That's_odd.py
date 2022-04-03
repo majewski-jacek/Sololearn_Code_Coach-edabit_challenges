@@ -5,9 +5,8 @@ sum = 0
 
 # pętla do sumowania parzystych liczb
 for i in range(count_input):
-    val = input()
-    val_1 = val[-1]
-    if val_1 in even_numbers:
+    val = int(input())
+    if val % 2 == 0:
         sum += int(val)
 
 print(sum)

@@ -6,17 +6,13 @@
 
  - That's_odd.py -> project that sums only even numbers.
 
+ - Secret_Message.py -> project that each letter in a message with its corresponding letter in a backwards version of the English alphabet.
+
 ## IN-PROGGRES
 
- - Secret_Message.py -> project that each letter in a message with its corresponding letter in a backwards version of the English alphabet.
+ - None
 ```
 TASK:
 
-Output Format:
-
-A string of your message once you have encoded it (all lower case).
-
-Sample Input: Hello World
-
-Sample Output: svool dliow
+None
 ```

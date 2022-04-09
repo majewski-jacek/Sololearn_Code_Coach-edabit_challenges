@@ -8,6 +8,8 @@
 
  - Secret_Message.py -> project that each letter in a message with its corresponding letter in a backwards version of the English alphabet.
 
+ - Pig_Latin.py -> project that convert words into Pig Latin language.
+
 ## IN-PROGGRES
 
  - None

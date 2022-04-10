@@ -10,6 +10,10 @@
 
  - Pig_Latin.py -> project that convert words into Pig Latin language.
 
+## Complete edabit challenges // Link to the challenge in the code
+ 
+ - Calculate_The_Profit.py -> project that calculate the total profit made on the sales of a product.  
+
 ## IN-PROGGRES
 
  - None

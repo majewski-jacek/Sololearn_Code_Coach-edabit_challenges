@@ -10,9 +10,11 @@
 
  - Pig_Latin.py -> project that convert words into Pig Latin language.
 
-## Complete edabit challenges // Link to the challenge in the code
+## Complete edabit challenges // Link to the challenge is at the end  the code
  
  - Calculate_The_Profit.py -> project that calculate the total profit made on the sales of a product.  
+
+ - Snake_Arena_Filling.py -> project that takes the side n of the screen and returns the number of times the snake can eat before it runs out of space. 
 
 ## IN-PROGGRES
 

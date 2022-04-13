@@ -10,6 +10,8 @@
 
  - Pig_Latin.py -> project that convert words into Pig Latin language.
 
+ - Fibonacci.py -> project that calculate the first N numbers of the Fibonacci sequence.
+
 ## Complete edabit challenges // Link to the challenge is at the end  the code
  
  - Calculate_The_Profit.py -> project that calculate the total profit made on the sales of a product.  

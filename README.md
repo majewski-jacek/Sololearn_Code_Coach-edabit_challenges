@@ -12,6 +12,8 @@
 
  - Fibonacci.py -> project that calculate the first N numbers of the Fibonacci sequence.
 
+ - Security.py -> project that evaluate a given floor of the casino to determine if there is a guard between the money and the thief, if there is not, triggers alarm.
+
 ## Complete edabit challenges // Link to the challenge is at the end  the code
  
  - Calculate_The_Profit.py -> project that calculate the total profit made on the sales of a product.  

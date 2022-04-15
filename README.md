@@ -20,6 +20,8 @@
 
  - Snake_Arena_Filling.py -> project that takes the side n of the screen and returns the number of times the snake can eat before it runs out of space. 
 
+ - Encode_morse.py -> project that takes a string as an argument and returns the Morse code equivalent.
+
 ## IN-PROGGRES
 
  - None

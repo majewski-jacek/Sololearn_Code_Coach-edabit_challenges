@@ -22,6 +22,8 @@
 
  - Encode_morse.py -> project that takes a string as an argument and returns the Morse code equivalent.
 
+ - Parentheses_Clusters.py -> project that clusters a string into parentheses.
+
 ## IN-PROGGRES
 
  - None

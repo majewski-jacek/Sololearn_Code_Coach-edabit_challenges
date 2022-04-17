@@ -24,6 +24,8 @@
 
  - Parentheses_Clusters.py -> project that clusters a string into parentheses.
 
+ - Distance_to_Nearest_Vowel.py -> project that takes in a string and for each character, returns the distance to the nearest vowel.
+
 ## IN-PROGGRES
 
  - None

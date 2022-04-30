@@ -16,6 +16,8 @@
 
  - Poker_Hand.py -> program that output the rank of the give poker hand.
 
+ - Mathematics.py -> program that find which math expression matches the answer that you are given.
+
 ## Complete edabit challenges // Link to the challenge is at the end  the code
  
  - Calculate_The_Profit.py -> program that calculate the total profit made on the sales of a product.  

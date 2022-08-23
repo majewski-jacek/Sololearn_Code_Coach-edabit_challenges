@@ -32,6 +32,8 @@
 
  - Distance_to_Nearest_Vowel.py -> program that takes in a string and for each character, returns the distance to the nearest vowel.
 
+ - English to Numbers.py -> a program that returns an integer in numeric form from the given English description.
+
 ## IN-PROGGRES
 
 

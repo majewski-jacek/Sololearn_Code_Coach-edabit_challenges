@@ -36,6 +36,8 @@
 
  - Identity Matrix.py -> a program that takes an integer n and returns the identity matrix of n x n dimensions.
 
+ - Concert Seats.py -> a program that determines whether each seat can "see" the front-stage.
+
 ## IN-PROGGRES
 
 

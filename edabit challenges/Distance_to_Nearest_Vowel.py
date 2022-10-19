@@ -22,7 +22,6 @@ def distance_to_nearest_vowel(txt):
         count_2 += 1
         result.append(min(distances_from_vowels))
     return result
-    
-print(distance_to_nearest_vowel(input()))
+
 
 # https://edabit.com/challenge/jWHkKc2pYmgobRL8R

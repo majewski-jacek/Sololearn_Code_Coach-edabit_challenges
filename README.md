@@ -38,6 +38,8 @@
 
  - Concert Seats.py -> a program that determines whether each seat can "see" the front-stage.
 
+ - Steps to a Palindrome.py -> a program that return the minimum letters needed to be added on to the end to make the string a palindrome.
+
 ## IN-PROGGRES
 
 

@@ -40,6 +40,8 @@
 
  - Steps to a Palindrome.py -> a program that return the minimum letters needed to be added on to the end to make the string a palindrome.
 
+ - Advanced List Sort.py -> a program that takes a list of numbers or strings and returns a list with the items from the original list stored into sublists.
+
 ## IN-PROGGRES
 
 

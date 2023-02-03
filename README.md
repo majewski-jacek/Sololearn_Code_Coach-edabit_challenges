@@ -42,6 +42,8 @@
 
  - Advanced List Sort.py -> a program that takes a list of numbers or strings and returns a list with the items from the original list stored into sublists.
 
+ - Bingo Check.py -> a program that takes a 5x5 2D list and returns True if it has at least one Bingo, and False if it doesn't.
+
 ## IN-PROGGRES
 
 

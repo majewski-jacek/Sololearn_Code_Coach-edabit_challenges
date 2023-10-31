@@ -44,6 +44,8 @@
 
  - Bingo Check.py -> a program that takes a 5x5 2D list and returns True if it has at least one Bingo, and False if it doesn't.
 
+ - Imaginary Coding Interview.py a program that check if a candidate is qualified in an imaginary coding interview of an imaginary tech startup.
+
 ## IN-PROGGRES
 
 
